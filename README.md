@@ -108,6 +108,11 @@ Watching product mix trends regularly to notice problems earlier
 
 These actions can help balance sales and improve overall financial results.
 
+### 🔗 Interactive Version
+You can view and explore the full interactive dashboards on Tableau Public:  
+👉 [LuckyBurger Product Mix Analysis on Tableau Public](https://public.tableau.com/views/Book1_17517057723640/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## Author
 **Nariman Zingerov**  
 

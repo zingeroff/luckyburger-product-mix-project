@@ -49,7 +49,7 @@ LuckyBurger Product Mix Project/
 ## Main Charts and Insights
 
 ### 1. **Product Mix Shift Over Time**
-**File:** `dashboards/product_mix_chart.png`
+**File:** `Dashboards/product_mix_chart.png`
 
 We see that:
 * Budget burger sales increased from 17K (2015) to 43K (2017)

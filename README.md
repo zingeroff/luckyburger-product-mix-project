@@ -58,7 +58,7 @@ We see that:
 🔍 **Insight:** This shift reduced average revenue per sale.
 
 ### 2. **Revenue by Year and Category**
-**File:** `dashboards/revenue_by_category_year.png`
+**File:** ![revenue_by_category_year](Dashboards/revenue_by_category_year.png)
 
 * Premium burger revenue dropped from 9.5M (2016) to 8.4M (2017)
 * Budget burger revenue grew but didn't cover the loss
@@ -66,7 +66,7 @@ We see that:
 🔍 **Insight:** Even with more sales, we made less money because cheaper items dominated.
 
 ### 3. **Average Check by Hour and Year**
-**File:** `dashboards/avg_check_by_hour_year.png`
+**File:** ![avg_check_by_hour_year](Dashboards/avg_check_by_hour_year.png)
 
 * In 2015, average checks were higher, especially at lunch and dinner
 * In 2017, the lunch average dropped sharply
@@ -74,7 +74,7 @@ We see that:
 🔍 **Insight:** Promotions like "Lunch for 100 RUB" lowered check sizes between 12–14.
 
 ### 4. **Sales Volume by Hour and Category**
-**File:** `dashboards/hourly_sales_comparison_2015_2016_2017.png`
+**File:** ![hourly_sales_comparison_2015_2016_2017](Dashboards/hourly_sales_comparison_2015_2016_2017.png)
 
 * Sales were highest at lunch (12–14) and dinner (17–19)
 * Budget burgers dominated all time periods, especially at lunch
@@ -82,7 +82,7 @@ We see that:
 🔍 **Insight:** Customers increasingly chose Budget options even during high-traffic hours.
 
 ### 5. **Monthly Product Sales by Year**
-**File:** `dashboards/sales_mix_by_month_all_years.png`
+**File:** ![sales_mix_by_month_all_years](Dashboards/sales_mix_by_month_all_years.png)
 
 * Clear month-to-month trend: Budget burgers grew faster
 * Premium burgers became a smaller share
@@ -97,7 +97,16 @@ This project helped us understand that the **real problem was not sales volume**
 * Aggressive lunch promotions
 * We didn't stop or adjust the offer in time
 
+## Recommendations
+To improve the situation, we suggest:
 
+Reviewing lunch promotions to make sure they do not reduce profit
+
+Finding new ways to attract higher-paying customers, especially in the evening
+
+Watching product mix trends regularly to notice problems earlier
+
+These actions can help balance sales and improve overall financial results.
 
 ## Author
 **Nariman Zingerov**  

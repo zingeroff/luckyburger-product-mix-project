@@ -1,0 +1,7 @@
+SELECT
+  EXTRACT(YEAR FROM sale_time) AS year,
+  item_category,
+  AVG(check_total) AS avg_check
+FROM `luckyburger-analytics.burger_data.sales_data`
+GROUP BY year, item_category
+ORDER BY year, item_category;

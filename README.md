@@ -1,7 +1,7 @@
 # LuckyBurger Product Mix Shift Analysis
 
 ## Project Overview
-This project shows how a change in product sales mix affected revenue and average check at LuckyBurger, a restaurant chain with 5 locations in Moscow.
+This project shows how a change in product sales mix affected revenue and average check at LuckyBurger, a restaurant chain with 5 locations.
 
 From 2015 to 2017, we noticed that the number of burgers sold was growing. But at the same time, revenue and profits were going down. I wanted to understand why this happened and how customer behavior changed.
 
